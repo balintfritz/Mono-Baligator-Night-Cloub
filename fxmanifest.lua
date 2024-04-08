@@ -2,4 +2,8 @@ fx_version 'cerulean'
 
 games 'gta5'
 
-lua54 'yesY
+lua54 'yes'
+
+client_script{
+
+}
